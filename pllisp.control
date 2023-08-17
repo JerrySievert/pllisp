@@ -1,0 +1,7 @@
+comment = 'PL/Lisp toy extension'
+
+default_version = '0.1.0'
+module_pathname = '$libdir/pllisp'
+relocatable = false
+schema = pg_catalog
+superuser = true
